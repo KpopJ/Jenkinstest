@@ -14,7 +14,7 @@ print("Sorted list is", List2)
 
 List3 = []
 
-List3 = List3.copy()
+List3 = List1.copy()
 
 print("List3 = ", List3)
 
